@@ -3,7 +3,7 @@ My tech blog and project portfolio
 # Chaos-z9的技术简历
 
 ## 技能栈
-- **编程语言**: C++、
+- **编程语言**: C++
 - **核心算法**: 双指针、排序、C++算法初涉，CSP-J
 - **开发工具**:Visual Studio2022 ,Github,VS Code,CodeBlocks
 
