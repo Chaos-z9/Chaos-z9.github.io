@@ -14,7 +14,7 @@ My tech blog and project portfolio
 ### 🎯 学习历程（黑马程序员网课,清华大学网课）
 [个人B站账号]（https://space.bilibili.com/1508690178/favlist?fid=3693026978&ftype=create）
 ### 🎯 华农练习题
-[查看仓库]
+[查看仓库]（https://github.com/Chaos-z9/hzau-practice）
 
 ### 📚 洛谷刷题记录
 [![洛谷](https://img.shields.io/badge/已通过-22题-brightgreen)](https://www.luogu.com.cn/user/1905334)
