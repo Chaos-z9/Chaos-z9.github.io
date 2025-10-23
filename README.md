@@ -1,6 +1,6 @@
 # Chaos-z9.github.io
 My tech blog and project portfolio
-# /Chaos-z9的技术简历
+# Chaos-z9的技术简历
 
 ## 技能栈
 - **编程语言**: C++、
@@ -22,4 +22,5 @@ My tech blog and project portfolio
 [![洛谷](https://img.shields.io/badge/已通过-22题-brightgreen)](https://www.luogu.com.cn/user/1905334)
 - 精通题型: 字符串处理、数据结构
 
-## 最新文章
+## 最新文章(我的博客)
+[查看仓库](https://github.com/Chaos-z9/Chaos-z9-blog)
