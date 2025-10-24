@@ -17,9 +17,9 @@ My tech blog and project portfolio
 [查看仓库](https://github.com/Chaos-z9/dark-horse-course)
 ### 🎯 学习历程（黑马程序员网课,清华大学网课）
 [个人B站账号]（https://space.bilibili.com/1508690178/favlist?fid=3693026978&ftype=create）
--**黑马程序员在线网课（B站）**
--**C++语言程序语言设计配套网课（郑莉老师）**
--**中国大学MOOC华中农业大学C/C++程序语言设计SPOC暨智慧课堂（章英）**
+-**黑马程序员在线网课（B站）**-
+-**C++语言程序语言设计配套网课（郑莉老师）**-
+-**中国大学MOOC华中农业大学C/C++程序语言设计SPOC暨智慧课堂（章英）**-
 
 ### 📚 洛谷刷题记录
 [![洛谷](https://img.shields.io/badge/已通过-22题-brightgreen)](https://www.luogu.com.cn/user/1905334)
