@@ -1,32 +1,46 @@
 # Chaos-z9.github.io
 My tech blog and project portfolio
-# Chaos-z9的技术简历
+# Chaos-Z | 华中农业大学学生
+**C++ 算法爱好者 | 专注于夯实编程基础与算法思维**
 
-## 技能栈
-- **编程语言**: C++
-- **核心算法**: 双指针、排序、C++算法初涉，CSP-J
-- **开发工具**:Visual Studio2022 ,Github,VS Code,CodeBlocks
+[](https://github.com/Chaos-z9)
+[]([https://www.luogu.com.cn/](https://www.luogu.com.cn/user/1905334))
 
-## 项目展示
-### 🎯 华农真题库
-[查看仓库](https://github.com/Chaos-z9/hzau-exam-)
--算法：对撞指针，快慢指针，标记法（哈希思想），冒泡排序，快速排序
-### 🎯 华农练习题
-[查看仓库](https://github.com/Chaos-z9/hzau-practice)
-### 🎯 黑马练习题
-[查看仓库](https://github.com/Chaos-z9/dark-horse-course)
-### 🎯 学习历程（黑马程序员网课,清华大学网课）
-[个人B站账号]（https://space.bilibili.com/1508690178/favlist?fid=3693026978&ftype=create）
-- **黑马程序员在线网课（B站）**-
-- **C++语言程序语言设计配套网课（郑莉老师）**-
-- **中国大学MOOC华中农业大学C/C++程序语言设计SPOC暨智慧课堂（章英）**-
+---
 
-### 📚 洛谷刷题记录
-[![洛谷](https://img.shields.io/badge/已通过-22题-brightgreen)](https://www.luogu.com.cn/user/1905334)
-- 精通题型: 字符串处理、数据结构
+## 🛠️ 技术栈
 
-### 📚 竞赛初涉
-**LeetCode周赛**
+| 类别 | 掌握内容 |
+| :--- | :--- |
+| **编程语言** | **C++**（主要）， Python（基础） |
+| **核心算法** | **双指针**（快慢指针、对撞指针）、**排序**（冒泡、快速）、标记法（哈希思想） |
+| **开发工具** | Visual Studio 2022, VS Code, Code::Blocks, Git |
 
-## 最新文章(我的博客)
-[查看仓库](https://github.com/Chaos-z9/Chaos-z9-blog)
+## 📂 项目展示
+
+### 🎯 华中农业大学考试真题库
+[查看仓库](https://github.com/Chaos-z9/hzau-exam-) | 致力于系统整理与实现华中农业大学历年转专业考试C++编程真题。
+
+- **核心技术**：双指针、排序算法、字符串处理。
+- **项目价值**：深入理解考试重点，提炼解题模板，为备考者提供参考。
+- **已复现真题**：字符串去重、千分位格式化、杨辉三角、回文数判断等。
+
+### 🚀 算法练习库
+[华农练习题](https://github.com/Chaos-z9/hzau-practice) | [黑马练习题](https://github.com/Chaos-z9/heimao-practice)
+- **目标**：通过持续练习，将算法思维转化为肌肉记忆。
+- **内容**：分类整理字符串、数组、基础数据结构等专题练习题。
+
+## 📚 系统学习历程
+
+- **黑马程序员C++课程** - 完成从基础语法到STL的系统性学习。
+- **清华大学郑莉老师C++课程** - 深入学习面向对象编程思想。
+- **华中农业大学SPOC平台（章英老师）** - 同步完成校内C++程序设计课程配套实践。
+
+## 🔥 最新动态
+
+- **最近更新**：正在攻克洛谷【入门5】字符串题单。
+- **技术博客**：尝试在博客中记录解题思路与学习心得。[访问我的博客](https://chaos-z9.github.io/)
+
+---
+
+> *简历持续更新中。这份简历不仅是我技能的清单，更是我学习之路的忠实记录。*# Chaos-Z | 勤读力耕，立己达人的践行者
