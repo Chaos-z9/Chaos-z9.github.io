@@ -4,7 +4,7 @@ My tech blog and project portfolio
 **C++ 算法爱好者 | 专注于夯实编程基础与算法思维**
 
 [](https://github.com/Chaos-z9)
-[]([https://www.luogu.com.cn/](https://www.luogu.com.cn/user/1905334))
+[](https://www.luogu.com.cn/user/1905334)
 
 ---
 
@@ -26,7 +26,7 @@ My tech blog and project portfolio
 - **已复现真题**：字符串去重、千分位格式化、杨辉三角、回文数判断等。
 
 ### 🚀 算法练习库
-[华农练习题]([https://github.com/Chaos-z9/hzau-practice](https://github.com/Chaos-z9/hzau-practice)) | [黑马练习题](https://github.com/Chaos-z9/heimao-practice)
+[华农练习题](https://github.com/Chaos-z9/hzau-practice) | [黑马练习题](https://github.com/Chaos-z9/dark-horse-course)
 - **目标**：通过持续练习，将算法思维转化为肌肉记忆。
 - **内容**：分类整理字符串、数组、基础数据结构等专题练习题。
 
@@ -39,7 +39,7 @@ My tech blog and project portfolio
 ## 🔥 最新动态
 
 - **最近更新**：正在攻克洛谷【入门5】字符串题单。
-- **技术博客**：尝试在博客中记录解题思路与学习心得。[访问我的博客](https://chaos-z9.github.io/)
+- **技术博客**：尝试在博客中记录解题思路与学习心得。[访问我的博客](https://github.com/Chaos-z9/Chaos-z9-blog)
 
 ---
 
