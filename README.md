@@ -19,14 +19,14 @@ My tech blog and project portfolio
 ## 📂 项目展示
 
 ### 🎯 华中农业大学考试真题库
-[查看仓库](https://github.com/Chaos-z9/hzau-exam-) | 致力于系统整理与实现华中农业大学历年转专业考试C++编程真题。
+[查看仓库](https://github.com/Chaos-z9/Chaos-z9-hzau-exam-) | 致力于系统整理与实现华中农业大学历年转专业考试C++编程真题。
 
 - **核心技术**：双指针、排序算法、字符串处理。
 - **项目价值**：深入理解考试重点，提炼解题模板，为备考者提供参考。
 - **已复现真题**：字符串去重、千分位格式化、杨辉三角、回文数判断等。
 
 ### 🚀 算法练习库
-[华农练习题](https://github.com/Chaos-z9/hzau-practice) | [黑马练习题](https://github.com/Chaos-z9/heimao-practice)
+[华农练习题]([https://github.com/Chaos-z9/hzau-practice](https://github.com/Chaos-z9/hzau-practice)) | [黑马练习题](https://github.com/Chaos-z9/heimao-practice)
 - **目标**：通过持续练习，将算法思维转化为肌肉记忆。
 - **内容**：分类整理字符串、数组、基础数据结构等专题练习题。
 
